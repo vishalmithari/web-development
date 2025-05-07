@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+<body style="background-color: #f0f8ff; color: #333; font-family: Arial, sans-serif; padding: 20px;"> 
+
+    <h2 style="text-align: center; color: #4CAF50;">Registration Form</h2>
+
+    <form action="" method="post" style="max-width: 600px; margin: auto; padding: 20px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        
+        <label for="name" style="font-weight: bold;">Full Name:</label><br>
+        <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #ccc;"><br>
+
+        <label for="email" style="font-weight: bold;">Email:</label><br>
+        <input type="email" id="email" name="email" required style="width: 100%; padding: 8px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #ccc;"><br>
+
+        <label for="mobile" style="font-weight: bold;">Mobile Number:</label><br>
+        <input type="text" id="mobile" name="mobile" required style="width: 100%; padding: 8px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #ccc;"><br>
+
+        <label for="gender" style="font-weight: bold;">Gender:</label><br>
+        <input type="radio" id="male" name="gender" value="Male" required> Male
+        <input type="radio" id="female" name="gender" value="Female" required> Female<br><br>
+
+        <label for="qualification" style="font-weight: bold;">Qualification:</label><br>
+        <select id="qualification" name="qualification" required style="width: 100%; padding: 8px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #ccc;">
+            <option value="High School">High School</option>
+            <option value="Undergraduate">Undergraduate</option>
+            <option value="Postgraduate">Postgraduate</option>
+            <option value="Other">Other</option>
+        </select><br>
+
+        <label for="skills" style="font-weight: bold;">Programming Skills:</label><br>
+        <input type="checkbox" id="python" name="skills" value="Python"> Python<br>
+        <input type="checkbox" id="java" name="skills" value="Java"> Java<br>
+        <input type="checkbox" id="javascript" name="skills" value="JavaScript"> JavaScript<br>
+        <input type="checkbox" id="c++" name="skills" value="C++"> C++<br><br>
+
+        <label for="college" style="font-weight: bold;">College:</label><br>
+        <select id="college" name="college" required style="width: 100%; padding: 8px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #ccc;">
+            <option value="DY PATIL University">DY PATIL University</option>
+            <option value="NEW College">NEW College</option>
+            <option value="Horizon College">Horizon College</option>
+            <option value="KIT Institute">KIT Institute</option>
+            <option value="VJTI College">VJTI College</option>
+        </select> 

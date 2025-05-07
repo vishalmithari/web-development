@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<?xml-stylesheet type = "text/xsl" href = "books.xsl"?> 
+
+
+<library>
+
+<book>
+<title>Data Structures and Algorithms</title>
+<author>Seymour Lipschutz</author>
+<year>2021</year>
+<price>$10.2</price>
+</book>
+
+<book>
+<title>Database Management Systems</title>
+<author>Abraham Silberschatz </author>
+<author>Henry F. Korth</author>
+<author> S. Sudarshan</author>
+<year>2020</year>
+<price>$9.4</price>
+</book>
+
+<book>
+<title>Software Engineering</title>
+<author>Rajib Mall</author>
+<year>2021</year>
+<price>$8.5</price>
+</book>
+
+<book>
+<title>Computer Organization and Architecture</title>
+<author>William Stallings</author>
+<year>2022</year>
+<price>$10.1</price>
+</book>
+
+<book>
+<title>Operating Systems</title>
+<author>Abraham Silberschatz </author>
+<author>Peter B. Galvin</author>
+<author>Greg Gagne</author>
+<year>2021</year>
+<price>$10.3</price>
+</book>
+
+<book>
+<title>Design and Analysis of Algorithms</title>
+<author> Thomas H. Cormen</author>
+<author>Charles E. Leiserson</author>
+<author>Ronald L. Rivest</author>
+<author>Clifford Stein</author>
+<year>2022</year>
+<price>$10.8</price>
+</book>
+
+<book>
+<title>Computer Networks</title>
+<author> Andrew S. Tanenbaum </author>
+<author>David J. Wetherall</author>
+<year>2021</year>
+<price>$9.6</price>
+</book>
+
+<book>
+<title>Object-Oriented Programming with C++</title>
+<author> E. Balagurusamy</author>
+<year>2022</year>
+<price>$7.6</price>
+</book>
+
+<book>
+<title>Introduction to Automata Theory, Languages, and Computation</title>
+<author>John E. Hopcroft</author>
+<author> Rajeev Motwani</author>
+<author>Jeffrey D. Ullman</author>
+<year>2022</year>
+<price>$10.2</price>
+</book>
+
+<book>
+<title>System Programming and Operating Systems</title>
+<author>Dhamdhere</author>
+<year>2021</year>
+<price>$8.2</price>
+</book>
+
+</library>

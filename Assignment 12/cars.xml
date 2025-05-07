@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="cars.css"?>
+<?xml-stylesheet type = "text/xsl" href = "cars.xsl"?> 
+
+
+<cars>
+  <car>
+    <model>Swift</model>
+    <manufacturer>Maruti Suzuki</manufacturer>
+    <year>2023</year>
+    <price>$9,000</price>
+    <cc>1197</cc>
+  </car>
+
+  <car>
+    <model>i20</model>
+    <manufacturer>Hyundai</manufacturer>
+    <year>2023</year>
+    <price>$11,500</price>
+    <cc>1197</cc>
+  </car>
+
+  <car>
+    <model>Altroz</model>
+    <manufacturer>Tata Motors</manufacturer>
+    <year>2023</year>
+    <price>$10,000</price>
+    <cc>1199</cc>
+  </car>
+
+  <car>
+    <model>Baleno</model>
+    <manufacturer>Maruti Suzuki</manufacturer>
+    <year>2023</year>
+    <price>$10,500</price>
+    <cc>1197</cc>
+  </car>
+
+  <car>
+    <model>Venue</model>
+    <manufacturer>Hyundai</manufacturer>
+    <year>2023</year>
+    <price>$13,500</price>
+    <cc>1493</cc>
+  </car>
+
+  <car>
+    <model>Punch</model>
+    <manufacturer>Tata Motors</manufacturer>
+    <year>2023</year>
+    <price>$9,200</price>
+    <cc>1199</cc>
+  </car>
+
+  <car>
+    <model>Fronx</model>
+    <manufacturer>Maruti Suzuki</manufacturer>
+    <year>2023</year>
+    <price>$12,000</price>
+    <cc>1197</cc>
+  </car>
+
+  <car>
+    <model>Kiger</model>
+    <manufacturer>Renault</manufacturer>
+    <year>2023</year>
+    <price>$10,300</price>
+    <cc>999</cc>
+  </car>
+
+  <car>
+    <model>Magnite</model>
+    <manufacturer>Nissan</manufacturer>
+    <year>2023</year>
+    <price>$10,000</price>
+    <cc>999</cc>
+  </car>
+
+  <car>
+    <model>Sonet</model>
+    <manufacturer>Kia</manufacturer>
+    <year>2023</year>
+    <price>$13,000</price>
+    <cc>1197</cc>
+  </car>
+</cars>
